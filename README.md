@@ -14,3 +14,13 @@
 * Full-Stack Web Developer https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004
 * Machine Learning https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009
   * Option for Nanodegree + $299/mo get hired or tuition refund guarantee
+
+#### Coursera
+* Programming for Everybody https://www.coursera.org/learn/python
+* first of a series that includes:
+* Python Data Structures
+* Using Python to Access Web Data
+* Using Databases with Python
+* Capstone Project option with paid Specialization
+ * Retrieving, Processing, and Visualizing Data with Python
+
